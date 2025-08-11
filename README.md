@@ -2,16 +2,16 @@
 
 [![LayoutEditor](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/Layout-Editor/releases/tag/Layout-Editor)
 
-# Preview ⟩
+## Preview ⟩
 
 <div>
 <img width="460" height="260" src="PreviewLE.jpg" alt="Preview" title="Preview">
 <div></div>
 
-# Pre-release ⟩
+## Pre-release ⟩
 Layout Editor 0.9.0-alpha – Early release with core tools to design and edit layouts, built for speed and future features.
 
-# Features ⟩
+## Features
 - [X] Drag and drop: The Layout Editor allows developers to easily drag and drop UI elements onto the design canvas, making it easy to create a visual representation of the app's layout.
 - [X] WYSIWYG editing: The Layout Editor provides a What You See Is What You Get (WYSIWYG) interface, which allows developers to preview how their app will look on different devices.
 - [X] Blueprint mode: In addition to the WYSIWYG mode, the Layout Editor also has a blueprint mode that allows developers to work with a wireframe view of the layout.
