@@ -1,4 +1,4 @@
-# Layout Editor
+## Layout Editor
 
 [![LayoutEditor](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/Layout-Editor/releases/tag/Layout-Editor)
 
