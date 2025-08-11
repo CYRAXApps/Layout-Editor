@@ -2,13 +2,13 @@
 
 [![LayoutEditor](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/Layout-Editor/releases/tag/Layout-Editor)
 
-## Preview ⟩
+## Preview
 
 <div>
 <img width="460" height="260" src="PreviewLE.jpg" alt="Preview" title="Preview">
 <div></div>
 
-## Pre-release ⟩
+## Pre-release
 Layout Editor 0.9.0-alpha – Early release with core tools to design and edit layouts, built for speed and future features.
 
 ## Features
