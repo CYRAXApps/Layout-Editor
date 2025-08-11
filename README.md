@@ -1,6 +1,6 @@
 # Layout Editor
 
-(https://img.shields.io/badge/Download-Layout-Editor-blue?style=for-the-badge)](https://github.com/CYRAXApps/Layout-Editor/releases/tag/Layout-Editor)
+[![LayoutEditor](https://img.shields.io/badge/Download-CRC32_Editor-blue?style=for-the-badge)](https://github.com/CYRAXApps/Layout-Editor/releases/tag/Layout-Editor)
 
 # Preview ⟩
 
